@@ -1,27 +1,28 @@
-## Student Name (or name you would preferred to be called)
-
+## Tim Williams
 ### Spring 2023
 
 DSBA student at [Florida Polytechnic University](https://www.floridapoly.edu) currently enrolled in: 
 
-- Course
+- intro to data science
 
-- Course 2
+- macroeconomics
 
-- Course 3
+- statistics 1
 
-- Course 4
+- law and public policy
+
+- entrepreneurial oppurtunity analysis
 
 **Hobbies:**
 
 I am _passionate about_: 
 
-- Thing 1
+- gaming
 
-- Thing 2
+- cards
 
-- Thing 3 as shown in this website <https://www.floridapoly.edu>
+- soccer
 
 ***
 
-> Last modified: YYYY/MM/DD
+> Last modified: 1/22/2023
